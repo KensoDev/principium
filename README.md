@@ -1,5 +1,3 @@
-# principium
-
 <div style="text-align: center">
   <img src="http://assets.avi.io/aHR0cHM6Ly93d3cuZnJlZWxvZ29zZXJ2aWNlcy5jb20vYXBpL21haW4vcGgvempIbDJsZ2VmOWNZclFMMEpGYTdremJ3MnZ1QnBCUkhuUmpQMERwOU9YZEU5ZzVzaG5OMWkuLi5CdjlldHRkVjlkc0JVR3cwcFk.png" />
 </div>

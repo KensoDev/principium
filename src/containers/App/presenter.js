@@ -11,6 +11,8 @@ class App extends Component {
   }
 
   render() {
+    const { device } = this.props;
+
     return (
       <View>
         <Text>

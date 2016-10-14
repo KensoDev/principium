@@ -1,0 +1,3 @@
+rootProject.name = 'principium'
+
+include ':app'

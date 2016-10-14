@@ -1,7 +1,5 @@
-# principium
-
 <div style="text-align: center">
-  [Principium Logo](http://assets.avi.io/aHR0cHM6Ly93d3cuZnJlZWxvZ29zZXJ2aWNlcy5jb20vYXBpL21haW4vcGgvempIbDJsZ2VmOWNZclFMMEpGYTdremJ3MnZ1QnBCUkhuUmpQMERwOU9YZEU5ZzVzaG5OMWkuLi5CdjlldHRkVjlkc0JVR3cwcFk.png)
+  <img src="http://assets.avi.io/aHR0cHM6Ly93d3cuZnJlZWxvZ29zZXJ2aWNlcy5jb20vYXBpL21haW4vcGgvempIbDJsZ2VmOWNZclFMMEpGYTdremJ3MnZ1QnBCUkhuUmpQMERwOU9YZEU5ZzVzaG5OMWkuLi5CdjlldHRkVjlkc0JVR3cwcFk.png" />
 </div>
 
 Principium is a React Native starter kit with Redux. Ready to roll
